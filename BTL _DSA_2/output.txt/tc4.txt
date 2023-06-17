@@ -1,0 +1,9 @@
+ConcatStringTree["a"]
+ConcatStringTree["bb"]
+2
+LitStringHash[();(litS="a");(litS="bb");()]
+
+ConcatStringTree[a]
+ConcatStringTree[bb]
+2
+LitStringHash[();(litS=a);(litS=bb);()]

@@ -1,0 +1,9 @@
+ConcatStringTree[(LL=5,L=8,<NULL>);(LL=0,L=5,"Hello");(LL=0,L=3,",_t")]
+ConcatStringTree["Hello,_t"]
+ConcatStringTree[","]
+ConcatStringTree["t_,olleH"]
+
+ConcatStringTree[(LL=5,L=8,<NULL>);(LL=0,L=5,<Hello>);(LL=0,L=3,<,_t>)]
+ConcatStringTree[Hello,_t]
+ConcatStringTree[,]
+ConcatStringTree[t_,olleH]

@@ -1,0 +1,9 @@
+7
+c
+char at index 10: Exception out_of_range: Index of string is invalid!
+2
+
+7
+c
+Exception out_of_range: Index of string is invalid!
+2
